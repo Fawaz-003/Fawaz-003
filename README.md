@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://fawaz-portfolio-gamma.vercel.app/](https://fawaz-portfolio-gamma.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://fawaz-portfolio-gamma.vercel.app/)
 
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
 
