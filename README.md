@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawaz-003&show_icons=true&locale=en" alt="fawaz-003" /></p>
 
-<img src="https://raw.githubusercontent.com/fawaz-003/fawaz-003/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fawaz-003/fawaz-003/snake.svg" alt="Snake animation" />
 
 ###
 
