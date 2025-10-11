@@ -33,7 +33,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawaz-003&show_icons=true&locale=en" alt="fawaz-003" /></p>
 
-![Snake animation](https://github.com/fawaz-003/fawaz-003/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/fawaz-003/fawaz-003/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fawaz-003&" alt="fawaz-003" /></p>
