@@ -57,5 +57,5 @@
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fawaz-003/fawaz-003/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/fawaz-003/fawaz-003/output/github-snake-dark.svg" alt="snake animation" />
 </p>
