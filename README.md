@@ -1,19 +1,37 @@
 <!-- 🌟 README START -->
 <div align="center">
 
-# 👋 Hey there, I'm **Abdul Fawaz**  
-### 🧠 Full Stack Developer • 🚀 Problem Solver • 💻 Tech Enthusiast
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,20,20&height=180&section=header&text=Abdul%20Fawaz&fontSize=55&fontAlignY=35&fontColor=FFF&animation=fadeIn"
+  alt="header"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1500&color=A277FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Bringing+Ideas+to+Life+with+Code;Turning+Complexity+into+Simplicity" alt="Typing SVG" />
+### 🚀 Full Stack Developer • System Builder • Product Mindset  
+Crafting meaningful digital experiences — one clean commit at a time.
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=1400&color=5CE1E6&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Production+Ready+Apps;Building+Fast+Scalable+Web+Platforms;MERN+Stack+Enthusiast+%7C+Problem+Solver;Crafting+Experiences+That+Feel+Effortless"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=1400&color=6A38FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Production+Ready+Apps;Building+Fast+Scalable+Web+Platforms;MERN+Stack+Enthusiast+%7C+Problem+Solver;Crafting+Experiences+That+Feel+Effortless"
+  />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=1400&color=5CE1E6&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Production+Ready+Apps;Building+Fast+Scalable+Web+Platforms;MERN+Stack+Enthusiast+%7C+Problem+Solver;Crafting+Experiences+That+Feel+Effortless"
+    alt="Typing animation"
+  />
+</picture>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fawaz-003&label=Profile%20Views&color=blueviolet&style=flat-square)]()
-[![Followers](https://img.shields.io/github/followers/fawaz-003?label=Followers&style=flat-square&color=blueviolet)]()
+<!-- Stats -->
+<img src="https://komarev.com/ghpvc/?username=fawaz-003&color=blueviolet&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/fawaz-003?style=flat-square&color=blueviolet" alt="Followers" />
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
