@@ -116,15 +116,6 @@ Crafting meaningful digital experiences — one clean commit at a time.
 
 ---
 
-## 🐍 My GitHub Snake 🐍
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fawaz-003/fawaz-003/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fawaz-003/fawaz-003/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/fawaz-003/fawaz-003/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
 ---
 
 ## 💬 Dev Quote of the Day
