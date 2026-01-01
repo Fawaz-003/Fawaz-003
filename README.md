@@ -84,16 +84,6 @@ Crafting meaningful digital experiences — one clean commit at a time.
 </tr>
 </table>
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fawaz-003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaz-003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawaz-003&theme=tokyonight&hide_border=true&background=0d1117"/>
-</div>
-
 ## 💬 Dev Quote of the Day
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
