@@ -2,9 +2,9 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,20,20&height=180&section=header&text=Abdul%20Fawaz&fontSize=55&fontAlignY=35&fontColor=FFF&animation=fadeIn"
-  alt="header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Abdul%20Fawaz&fontSize=55&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn&color=gradient&customColorList=12,6,20"
 />
+
 
 ### 🚀 Full Stack Developer • System Builder • Product Mindset  
 Crafting meaningful digital experiences — one clean commit at a time.
@@ -34,12 +34,30 @@ Crafting meaningful digital experiences — one clean commit at a time.
 
 
 ## 👨‍💻 About Me
- 
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
 - 🌱 **Learning Journey:** Next.js • AWS • Microservices  
 - 👯 **Open to Collaborate:** Full Stack Projects & Open Source  
 - 💬 **Ask Me About:** React • Node.js • MongoDB • System Design  
 - 💼 **Portfolio:** [Abdul Fawaz Portfolio](https://fawaz-portfolio-gamma.vercel.app/)  
 - 📫 **Reach Me:** [abdulfawaz84@gmail.com](mailto:abdulfawaz84@gmail.com)
+
+</td>
+<td width="35%" align="center">
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+  alt="Coding Animation" 
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
 
 
 ## 🌐 Connect With Me
