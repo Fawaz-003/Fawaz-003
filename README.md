@@ -102,6 +102,16 @@ Crafting meaningful digital experiences — one clean commit at a time.
 </tr>
 </table>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fawaz-003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+  />
+</div>
+
+
 ## 💬 Dev Quote of the Day
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
